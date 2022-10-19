@@ -7,4 +7,8 @@ print(len(dict))
 
 tup = (1, 2, 3, 4, 5)
 print(len(tup))
+
+set = {1, 2, 3, 4, 5}
+length = len(set)
+print(length)
 '''
